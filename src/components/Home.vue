@@ -36,7 +36,6 @@
   <div class="services-section my-5 py-5 text-center text-white">
     <div class="container py-5">
       <h1>Our Services</h1>
-      <!-- <p style="font-size: 19px;">Clients must supply personal information and required documents for immigration qualification. The firm will detail their duties, fees, client responsibilities, confidentiality, and qualifications in a retainer agreement. They will handle all dealings with Canadian Immigration Officials, ensuring applications meet the current regulations and address any subsequent queries. A well-prepared application is vital to prevent delays or misrepresentation, which could result in being denied entry to Canada.</p> -->
     </div>
 
     <div class="container mb-5">
