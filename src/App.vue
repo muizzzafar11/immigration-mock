@@ -3,7 +3,9 @@
   <div class="app">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <router-link class="navbar-brand" to="/">Globe Immigration</router-link>
+      <router-link class="navbar-brand" to="/">
+        <img style="width: 50px;" src="./assets/globe-logo.jpeg">
+      </router-link>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -45,7 +47,11 @@ export default {
 <style>
 
 
-  .nav-link:focus {
+  .nav-link:hover {
+    color: red !important; /* Change the text color to red */
+  }
+
+  .router-link-active {
     color: red !important; /* Change the text color to red */
     text-decoration: underline !important; /* Underline the active nav link */
   }
