@@ -48,6 +48,13 @@
         <cards_component :imagePath="require('../assets/' + 'rolling-flag.jpeg' + '')" header="Status Change"></cards_component>
         </div>
     </div>
+
+    <div>
+      <!-- <button class="btn btn-danger px-5 py-3" style="background-color: #D80621;"><a href="/services">View All Our Services</a></button> -->
+      <a href="#/services" class="btn btn-danger px-5 py-3" style="background-color: #D80621;" role="button">
+        View All Our Services
+      </a>
+    </div>
   </div>
 
 
