@@ -16,13 +16,13 @@
             <router-link class="nav-link" to="/services"><p class="nav-text">Our Services</p></router-link>
           </li>
           <li class="nav-item mx-3">
-            <router-link class="nav-link" to="/assessment"><p class="nav-text">Free Assessment</p></router-link>
+            <router-link class="nav-link" to="/free-assessment"><p class="nav-text">Free Assessment</p></router-link>
           </li>
           <li class="nav-item mx-3">
             <router-link class="nav-link" to="/faq"><p class="nav-text">FAQ</p></router-link>
           </li>
           <li class="nav-item mx-3">
-            <router-link class="nav-link" to="/contact"><p class="nav-text">Contact Us</p></router-link>
+            <router-link class="nav-link" to="/contact-us"><p class="nav-text">Contact Us</p></router-link>
           </li>
         </ul>
       </div>
